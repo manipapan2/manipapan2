@@ -12,7 +12,7 @@
 
 **[GameAim](https://github.com/manipapan2/gameaim/)** is a web progressive app for games
 
-**[Cyborg](https://github.com/manipapan2/cyborg/)** is a simple website for practice
+**[Cyborg](https://github.com/manipapan2/cyborg/)** is a simple responsive website
 
 # 💻 Skills
 
